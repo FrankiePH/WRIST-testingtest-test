@@ -1,1 +1,7 @@
-{"version": "1.0", "name": "testingtest-test", "description": "<p><br></p>", "component_sets": [], "concept": [{"name": "Item", "mro": "M", "description": "", "valueSets": "", "implementationGuidance": "", "informationType": "Record", "type": "item", "minimumMultiplicity": "0", "maximumMultiplicity": "1"}]}
+{
+  "version": "1.0",
+  "name": "testingtest-test",
+  "description": "<p><br></p>",
+  "component_sets": [],
+  "concept": []
+}
