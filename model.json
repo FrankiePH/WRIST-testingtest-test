@@ -3,20 +3,5 @@
   "name": "testingtest-test",
   "description": "<p><br></p>",
   "component_sets": [],
-  "concept": [
-    {
-      "name": "New Item",
-      "mro": "M",
-      "description": "",
-      "valueSets": "",
-      "implementationGuidance": "",
-      "informationType": "Record",
-      "type": "item",
-      "minimumMultiplicity": "0",
-      "maximumMultiplicity": "1",
-      "concept": [],
-      "isComponent": false,
-      "relationshipType": "neither"
-    }
-  ]
+  "concept": []
 }
